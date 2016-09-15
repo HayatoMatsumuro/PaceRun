@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         // 足音音声
         m_TrackMediaPlayer = MediaPlayer.create(this, R.raw.sample);
+        m_TrackMediaPlayer.setLooping(true);
 
         Button startButton = (Button)findViewById(R.id.id_activity_main_button_start);
         startButton.setOnClickListener(new View.OnClickListener() {
