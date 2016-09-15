@@ -25,6 +25,7 @@
 
     </Spinner>
     <Button
+        android:id="@+id/id_activity_main_button_start"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="スタート"/>
