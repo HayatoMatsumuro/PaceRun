@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">PaceRun</string>
     <string name="action_settings">Settings</string>
+    <string name="message_pacetime">ペースタイムを設定してください。</string>
+    <string-array name="pacetime">
+        <item>3\'00／km</item>
+        <item>3\'15／km</item>
+        <item>3\'30／km</item>
+        <item>3\'45／km</item>
+        <item>4\'00／km</item>
+        <item>4\'15／km</item>
+        <item>4\'30／km</item>
+        <item>4\'45／km</item>
+        <item>5\'00／km</item>
+        <item>5\'30／km</item>
+        <item>6\'00／km</item>
+        <item>ウォーキング</item>
+    </string-array>
 </resources>
